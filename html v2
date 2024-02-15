@@ -1,0 +1,88 @@
+<html> 
+<head>
+    <title>Donavon Manning</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <h1>Donavon Manning</h1>
+    <br>
+        <p>email:d.hot.chocolate.mann@gmail.com</p>
+        <br>
+        <p>phone:(727)401-0508</p>
+    <h2>Summary</h2> 
+        <br>
+        <p>aspiring software engineer looking for potential job benefits</p>
+    <br>
+    <h2>Education</h2>
+    <ul>
+        <li>Eldorado High School</li>
+        <LI>USF</LI>
+    </ul>
+    <table>
+        <caption>skills cv table</caption>
+    <thead>
+        <tr>
+            <th>education</th>
+            <th>previous experience</th>
+            <th>awards</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>eldorado high school</td>
+            <td>roadrunner truck driving school</td>
+            <td>USF software engineering bootcamp</td>
+        </tr>
+        <tr>
+            <td>sales experience</td>
+            <td>1,000,000 miles</td>
+            <td>software coding expierence</td>
+        </tr>
+        <tr>
+            <td>USF software engineering bootcamp</td>
+            <td>top dog award</td>
+            <td>none</td>
+        </tr>
+    </tbody>
+    </table>
+    <h3>Contact Me</h3>
+        <form>
+            <input name="name" type="text" placeholder="name" minlength="2" maxlength="40" required>
+        </form>
+        <br>
+        <form>
+            <input name="email" type="text" placeholder="add email">
+        </form>
+        <br>
+        <form>
+            <input name="organization" type="text" placeholder="name of organization">
+        </form>
+    <select name="reason for contact">
+        <option value="">--select reason--</option>
+        <option value="job interview">job interview</option>
+        <option value="remote work">remote work</option>
+        <option value="local contracting">local contracting</option>
+    </select>
+
+    <br>
+
+    <button> select if callback is available</button>
+   
+    <form>
+        <button type="button">click me</button>
+       </form>
+       <form>
+        <p>prefered time of contact
+        <input type="checkbox" name="morning" value="am"> AM <br>
+        </p>
+        <p>
+            <input type="radio" name="night"value="pm"> PM <br>
+        </p>
+    </form>
+
+
+</body>`    
+
+
+
+</html>
